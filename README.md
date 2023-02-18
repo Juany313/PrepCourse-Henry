@@ -1,1 +1,3 @@
-Este Proyecto es una prueba de como crear un repositorio y clonarlo desde Git hub a mi repositorio local
+Este Proyecto es una prueba de como crear un repositorio y clonarlo desde Git hub a mi repositorio local.
+
+Juany.
